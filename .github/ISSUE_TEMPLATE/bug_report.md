@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
-**Defect No.**
-Auto generated defect No.
-
-**Date Created**
-System generated date
-
-**Created By**
-The person who created the defect.
-
 **Test Group**
 The Test group, defect has been submitted.
 
